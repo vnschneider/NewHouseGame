@@ -190,6 +190,7 @@ private class TecladoAdapter implements KeyListener{
             player.KeyReleased(ke);
      }
  
+        
       }
 
 	@Override
