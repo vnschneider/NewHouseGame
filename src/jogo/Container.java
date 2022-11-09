@@ -1,7 +1,8 @@
-package NewHouseGame;
+package jogo;
 
 import javax.swing.JFrame;
 
+import jogo.modelo.Fase1;
 
 public class Container extends JFrame{
 	
@@ -18,5 +19,6 @@ public class Container extends JFrame{
 	public static void main(String []args) {
 		new Container();
 	}
-
-}
+	
+	
+	}
